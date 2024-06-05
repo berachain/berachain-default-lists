@@ -18,6 +18,10 @@
     "featured": {
       "name": "Featured",
       "description": "Tokens that are featured"
+    },
+    "rewardToken": {
+      "name": "Reward Token",
+      "description": "Tokens that are used for vault deposits to earn BGT rewards"
     }
   },
 
