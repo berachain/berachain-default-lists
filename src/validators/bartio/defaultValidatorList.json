@@ -902,6 +902,14 @@
       "description": " Vietnam's largest community validator, offering validation services, educational resources, and market penetration in the Vietnamese crypto market. ",
       "website": "https://tienthuattoan.com",
       "twitter": "https://twitter.com/TTTcapital"
+    },
+    {
+      "id": "0x8187ee18ebcbb951bb5156880817c8f4e90f91d4",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/berrybera.png",
+      "name": "Blue Berry Bera",
+      "description": "Berry 🐻⛓️ Validators",
+      "website": "https://berrybera.xyz",
+      "twitter": "https://x.com/berrybera_xyz"
     }
   ]
 }
